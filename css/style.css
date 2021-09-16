@@ -4,6 +4,14 @@ body{
     text-align: center;
 }
 .logo{
-    width: 75px;
-    height: 75px;
+    width: 24px;
+    height: 24px;
+}
+
+.szurke{
+    background-color: #4c5c68;
+}
+
+nav{
+    height: 40px;
 }
