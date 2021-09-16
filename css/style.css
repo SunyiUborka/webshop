@@ -2,8 +2,11 @@ body{
     background-color: #46494c;
     color: #c5c3c6;
     text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
 }
 .logo{
+
     width: 24px;
     height: 24px;
 }
@@ -14,4 +17,17 @@ body{
 
 nav{
     height: 40px;
+}
+.card{
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: #dcdcdd;
+    background-color: #4c5c68;
+    
+}
+.btn{
+    background-color: #1985a1;
+    border-color: #dcdcdd;
+
 }
