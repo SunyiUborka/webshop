@@ -1,0 +1,15 @@
+AMD Ryzen 5 5600X 100-100000065BOX
+Architektúra (bit): 64
+Család: AMD Ryzen 5
+Fogyasztás (W): 65
+Gyártási technológia (nm): 7
+Hűtőborda: Igen
+Hűtőventilátor: Igen
+L2 Cache (MB): 3
+L3 Cache (MB): 32
+Magok száma: 6
+Órajel (Mhz): 3700
+Processzor foglalat: AMD AM4
+Szálak száma: 12
+VGA típus: Nem
+Architektúra (bit):Zen 3, Család:AMD Ryzen 5, Fogyasztás (W):65, Gyártási technológia (nm):7, Hűtőborda:Igen, Hűtőventilátor:Igen, L2 Cache (MB):3, L3 Cache (MB):32, Magok száma:6, Órajel (Mhz):3700, Processzor foglalat:AMD AM4, Szálak száma:12, VGA típus:Nem,

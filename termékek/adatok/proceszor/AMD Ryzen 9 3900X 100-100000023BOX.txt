@@ -1,0 +1,17 @@
+AMD Ryzen 9 3900X 100-100000023BOX
+Architektúra (bit): 64
+CPU Generáció: Ryzen 3000
+Család: AMD Ryzen 9
+Fogyasztás (W): 105
+Gyártási technológia (nm): 7
+Hűtőborda: Igen
+Hűtőventilátor: Igen
+L2 Cache (MB): 6
+L3 Cache (MB): 64
+Magok száma: 12
+Órajel (Mhz): 3800
+Processzor foglalat: AMD AM4
+Szálak száma: 24
+Típus: AMD Ryzen 9 3900X
+VGA típus: Nem
+

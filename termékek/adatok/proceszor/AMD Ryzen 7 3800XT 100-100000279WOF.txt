@@ -1,0 +1,16 @@
+AMD Ryzen 7 3800XT 100-100000279WOF
+Architektúra (bit): 64
+CPU Generáció: Ryzen 3000
+Család: AMD Ryzen 7
+Fogyasztás (W): 105
+Gyártási technológia (nm): 7
+Hűtőborda: Igen
+Hűtőventilátor: Igen
+L2 Cache (MB): 4
+L3 Cache (MB): 32
+Magok száma: 8
+Órajel (Mhz): 3900, 4500
+Processzor foglalat: AMD AM4
+Szálak száma: 16
+Típus: AMD Ryzen 7 3800X
+VGA típus: Nem

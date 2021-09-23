@@ -1,0 +1,20 @@
+ASUS TUF GAMING Z590-PLUS alaplap
+Chipset típus: Intel Z590
+DisplayPort kimenet: 1
+Formátum: ATX
+Hálózati csatlakozás: 1 X 10/100/1000/2500 Mb/s
+HDMI kimenet: 1
+m.2 csatlakozó: 3
+Maximum memória (GB): 128
+Memória foglalat: DDR4
+Memória foglalatok száma: 4
+Memória sebesség (Mhz): 2133, 2400, 2500, 2666, 2800, 2933, 3000, 3200, 3333, 3400, 3466, 3600, 3733, 3866, 4000, 4133, 4266, 4400, 4500, 4600, 4700, 4800, 5133
+PCI-e verzió: 3.0, 4.0
+PCI-E x1 csatlakozó: 2
+PCI-e x16 csatlakozó: 2
+Processzor foglalat: Intel 1200
+SATA 3 csatlakozó: 6
+Támogatott CPU Generációk: 10. generációs Intel, 11. generációs Intel
+Táp csatlakozó (pin): 24+8+4
+USB 2.0 kimenet: 2
+USB 3.0 kimenet: 4

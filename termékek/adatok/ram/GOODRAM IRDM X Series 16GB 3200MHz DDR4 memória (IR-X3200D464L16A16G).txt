@@ -1,0 +1,9 @@
+GOODRAM IRDM X Series 16GB 3200MHz DDR4 memória (IR-X3200D464L16A16G)
+Csomagolás: Bliszter
+Feszültség (V): 1,2
+Hűtőborda: IRDM X
+Időzítés (CL): 16
+Kapacitás (GB): 16
+Kiszerelés (modul): 1
+Memória típus: DDR4
+Órajel (Mhz): 3200

@@ -1,0 +1,9 @@
+Kingston 8GB DDR4 3200MHz HyperX FURY HX432C16FB38 memória
+Csomagolás: Oem
+Feszültség (V): 1,35
+Hűtőborda: HyperX Fury
+Időzítés (CL): 16
+Kapacitás (GB): 8
+Kiszerelés (modul): 1
+Memória típus: DDR4
+Órajel (Mhz): 3200

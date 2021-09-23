@@ -1,0 +1,15 @@
+Intel Core i7 11700K processzor (BX8070811700K)
+Architektúra (bit): 64
+CPU Generáció: Intel 11000
+Család: Intel Core i7
+Fogyasztás (W): 125
+Gyártási technológia (nm): 14
+Hűtőborda: Nem
+Hűtőventilátor: Nem
+L3 Cache (MB): 16
+Magok száma: 8
+Órajel (Mhz): 3600
+Processzor foglalat: Intel 1200
+Szálak száma: 16
+Típus: Intel Core i7-11700K
+VGA típus: Intel UHD Graphics 750

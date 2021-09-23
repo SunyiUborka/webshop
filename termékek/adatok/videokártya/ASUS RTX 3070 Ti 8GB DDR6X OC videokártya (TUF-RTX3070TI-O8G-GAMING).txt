@@ -1,0 +1,17 @@
+ASUS RTX 3070 Ti 8GB DDR6X OC videokártya (TUF-RTX3070TI-O8G-GAMING)
+Ajánlott tápegység: 750W
+Beépített memória (MB): 8192
+Chipset típus: NVIDIA RTX3070 Ti
+DirectX kompatibilitás: DirectX 12.2
+DisplayPort kimenet: 3
+Foglalat: PCI-E 16x 4.0
+Fogyasztás max. (W): 290
+GPU órajel (MHz): 1815
+HDMI kimenet: 2
+Hűtés típus: Aktív (Ventillátor)
+Mélység (mm): 299,9
+Memória órajel (MHz): 19000
+Memória sávszélesség (bit): 256
+Memória típus: GDDR6
+Open GL támogatás: 4.6
+Táp csatlakozó (pin): 8+8
