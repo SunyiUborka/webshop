@@ -1,0 +1,24 @@
+PNY Quadro RTX4000 8GB DDR6 videokártya (VCQRTX4000-PB)
+Ajánlott tápegység: 600W
+Beépített memória (MB): 8192
+Chipset típus: NVIDIA Quadro RTX4000
+D-Sub kimenet: 0
+DirectX kompatibilitás: DirectX 12
+DisplayPort kimenet: 3
+DVI-D kimenet: 0
+DVI-I kimenet: 0
+Foglalat: PCI-E 16x 3.0
+Fogyasztás max. (W): 160
+GPU órajel (MHz): 1545
+HDMI kimenet: 0
+Hűtés típus: Aktív (Ventillátor)
+Low Profile: Nem
+Mélység (mm): 241
+Memória órajel (MHz): 13000
+Memória sávszélesség (bit): 256
+Memória típus: GDDR6
+Mini DisplayPort kimenet: 0
+Mini HDMI kimenet: 0
+Open GL támogatás: 4.5
+Táp csatlakozó (pin): 8
+USB Type-C kimenet: 1

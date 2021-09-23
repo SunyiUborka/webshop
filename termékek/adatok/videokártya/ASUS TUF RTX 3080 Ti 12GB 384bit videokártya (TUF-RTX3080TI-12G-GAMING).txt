@@ -1,0 +1,16 @@
+ASUS TUF RTX 3080 Ti 12GB 384bit videokártya (TUF-RTX3080TI-12G-GAMING)
+Ajánlott tápegység: 850W
+Beépített memória (MB): 12288
+Chipset típus: NVIDIA RTX3080 Ti
+DisplayPort kimenet: 3
+Foglalat: PCI-E 16x 4.0
+GPU órajel (MHz): 1665, 1695
+HDMI kimenet: 2
+Hűtés típus: Aktív (Ventillátor)
+Low Profile: Nem
+Mélység (mm): 299,9
+Memória órajel (MHz): 19000
+Memória sávszélesség (bit): 384
+Memória típus: GDDR6X
+Open GL támogatás: 4.6
+Táp csatlakozó (pin): 8+8

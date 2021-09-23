@@ -1,0 +1,15 @@
+Intel Core i9-11900KF processzor (BX8070811900KF)
+CPU Generáció: 11. generáció
+Család: Rocket Lake-S
+Fogyasztás (W): 125
+Gyártási technológia (nm): 14
+Hűtőborda: Nem
+Hűtőventilátor: Nem
+L2 Cache (MB): 4
+L3 Cache (MB): 16
+Magok száma: 8
+Órajel (Mhz): 3500
+Processzor foglalat: Intel 1200
+Szálak száma: 16
+Típus: Core i9-11900KF
+VGA típus: Nem

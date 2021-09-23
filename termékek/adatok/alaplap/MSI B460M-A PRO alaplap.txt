@@ -1,0 +1,35 @@
+MSI B460M-A PRO alaplap
+Chipset típus: B460
+Crossfire támogatás: Nem
+D-Sub kimenet: 0
+DisplayPort kimenet: 0
+DVI-D kimenet: 1
+DVI-I kimenet: 0
+eSATA kimenet: 0
+Formátum: Micro-ATX
+Hálózati csatlakozás: 1 x 10/100/1000 Mb/s
+HDMI kimenet: 1
+m.2 csatlakozó: 1
+Maximum memória (GB): 64
+Memória foglalat: DDR4
+Memória foglalatok száma: 2
+Memória sebesség (Mhz): 2133, 2400, 2666, 2933
+Mini PCI-E: Nem
+mSATA csatlakozó: Nem
+PCI csatlakozó: 0
+PCI-e verzió: 3.0
+PCI-E x1 csatlakozó: 2
+PCI-e x16 csatlakozó: 1
+PCI-e x4 csatlakozó: 0
+Processzor foglalat: Intel 1200
+PS/2 csatlakozó: 1
+Raid: 0, 1, 10, 5
+S/PDIF optikai kimenet: Nem
+SATA 2 csatlakozó: 0
+SATA 3 csatlakozó: 6
+SLI támogatás: Nem
+Táp csatlakozó (pin): 24+8
+USB 2.0 kimenet: 2
+USB 3.0 kimenet: 0
+USB 3.1 kimenet: 4
+Vezeték nélküli hálózat: Nem

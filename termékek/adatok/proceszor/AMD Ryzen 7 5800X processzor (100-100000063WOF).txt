@@ -1,0 +1,16 @@
+AMD Ryzen 7 5800X processzor (100-100000063WOF)
+137 690 Ft
+Architektúra (bit): 64
+Család: AMD Ryzen 7
+Fogyasztás (W): 105
+Gyártási technológia (nm): 12, 7
+Hűtőborda: Nem
+Hűtőventilátor: Nem
+L2 Cache (MB): 4
+L3 Cache (MB): 32
+Magok száma: 8
+Órajel (Mhz): 3800
+Processzor foglalat: AMD AM4
+Szálak száma: 16
+VGA típus: Nem
+Architektúra (bit):Zen 3, Család:AMD Ryzen 7, Fogyasztás (W):105, Gyártási technológia (nm):12,7, Hűtőborda:Nem, Hűtőventilátor:Nem, L2 Cache (MB):4, L3 Cache (MB):32, Magok száma:8, Órajel (Mhz):3800, Processzor foglalat:AMD AM4, Szálak száma:16, VGA típus:Nem,

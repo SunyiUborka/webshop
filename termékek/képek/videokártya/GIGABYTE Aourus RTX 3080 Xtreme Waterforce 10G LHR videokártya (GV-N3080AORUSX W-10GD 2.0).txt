@@ -1,0 +1,24 @@
+GIGABYTE Aourus RTX 3080 Xtreme Waterforce 10G LHR videokártya (GV-N3080AORUSX W-10GD 2.0)
+Ajánlott tápegység: 750W
+Beépített memória (MB): 10240
+Chipset típus: NVIDIA RTX3080
+D-Sub kimenet: 0
+DirectX kompatibilitás: DirectX 12.2
+DisplayPort kimenet: 3
+DVI-D kimenet: 0
+DVI-I kimenet: 0
+Foglalat: PCI-E 16x 4.0
+Fogyasztás max. (W): 320
+GPU órajel (MHz): 1440, 1845
+HDMI kimenet: 3
+Hűtés típus: Aktív (Ventillátor)
+Low Profile: Nem
+Mélység (mm): 252
+Memória órajel (MHz): 19000
+Memória sávszélesség (bit): 320
+Memória típus: GDDR6
+Mini DisplayPort kimenet: 0
+Mini HDMI kimenet: 0
+Open GL támogatás: 4.6
+Táp csatlakozó (pin): 8+8
+USB Type-C kimenet: 0

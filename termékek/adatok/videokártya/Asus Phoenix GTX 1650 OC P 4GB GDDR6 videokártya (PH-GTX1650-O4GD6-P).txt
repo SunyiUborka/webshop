@@ -1,0 +1,23 @@
+Asus Phoenix GTX 1650 OC P 4GB GDDR6 videokártya (PH-GTX1650-O4GD6-P)
+Ajánlott tápegység: 300W
+Beépített memória (MB): 4096
+Chipset típus: NVIDIA GTX1650
+D-Sub kimenet: 0
+DirectX kompatibilitás: DirectX 12.2
+DisplayPort kimenet: 1
+DVI-D kimenet: 1
+DVI-I kimenet: 0
+Foglalat: PCI-E 16x 3.0
+Fogyasztás max. (W): 75
+GPU órajel (MHz): 1410, 1665
+HDMI kimenet: 1
+Hűtés típus: Aktív (Ventillátor)
+Mélység (mm): 178
+Memória órajel (MHz): 12000
+Memória sávszélesség (bit): 128
+Memória típus: GDDR6
+Mini DisplayPort kimenet: 0
+Mini HDMI kimenet: 0
+Open GL támogatás: 4.6
+Táp csatlakozó (pin): Nem
+USB Type-C kimenet: 0

@@ -1,0 +1,17 @@
+AMD Ryzen 3 1200 3.1GHz YD1200BBAFBOX
+Architektúra (bit): 64
+CPU Generáció: Ryzen 1000
+Család: AMD Ryzen 3
+Fogyasztás (W): 65
+Gyártási technológia (nm): 12
+Hűtőborda: Igen
+Hűtőventilátor: Igen
+L2 Cache (MB): 2
+L3 Cache (MB): 8
+Magok száma: 4
+Órajel (Mhz): 3100
+Processzor foglalat: AMD AM4
+Szálak száma: 4
+Típus: AMD Ryzen 3 1200
+VGA típus: Nem
+Architektúra (bit):64, Család:AMD Ryzen 3, Fogyasztás (W):65, Gyártási technológia (nm):12, Hűtőborda:Igen, Hűtőventilátor:Igen, L2 Cache (MB):2, L3 Cache (MB):8, Magok száma:4, Órajel (Mhz):3100, Processzor foglalat:AMD AM4, Szálak száma:4, Típus:AMD Ryzen 3 1200, VGA típus:Nem, CPU Generáció:Ryzen 1000,

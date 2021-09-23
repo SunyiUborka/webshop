@@ -1,0 +1,17 @@
+Palit RTX 3060 Ti Dual 8G GDDR6 LHR videokártya (NE6306T019P2-190ADLH)
+Ajánlott tápegység: 550W
+Beépített memória (MB): 8192
+Chipset típus: NVIDIA RTX3060 Ti
+DisplayPort kimenet: 3
+Foglalat: PCI-E 16x 4.0
+Fogyasztás max. (W): 200
+GPU órajel (MHz): 1410, 1665
+HDMI kimenet: 1
+Hűtés típus: Aktív (Ventillátor)
+Low Profile: Nem
+Mélység (mm): 247
+Memória órajel (MHz): 14000
+Memória sávszélesség (bit): 256
+Memória típus: GDDR6
+Open GL támogatás: 4.6
+Táp csatlakozó (pin): 8

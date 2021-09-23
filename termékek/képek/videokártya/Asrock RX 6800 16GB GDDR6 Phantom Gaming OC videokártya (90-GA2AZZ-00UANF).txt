@@ -1,0 +1,24 @@
+Asrock RX 6800 16GB GDDR6 Phantom Gaming OC videokártya (90-GA2AZZ-00UANF)
+Ajánlott tápegység: 700W
+Beépített memória (MB): 16384
+Chipset típus: Radeon RX 6800
+D-Sub kimenet: 0
+DirectX kompatibilitás: DirectX 12
+DisplayPort kimenet: 3
+DVI-D kimenet: 0
+DVI-I kimenet: 0
+Foglalat: PCI-E 16x 4.0
+Fogyasztás max. (W): 250
+GPU órajel (MHz): 1850, 2190
+HDMI kimenet: 1
+Hűtés típus: Aktív (Ventillátor)
+Low Profile: Nem
+Mélység (mm): 305
+Memória órajel (MHz): 16000
+Memória sávszélesség (bit): 256
+Memória típus: GDDR6
+Mini DisplayPort kimenet: 0
+Mini HDMI kimenet: 0
+Open GL támogatás: 4.6
+Táp csatlakozó (pin): 8+8
+USB Type-C kimenet: 0

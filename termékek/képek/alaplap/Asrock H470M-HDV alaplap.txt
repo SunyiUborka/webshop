@@ -1,0 +1,23 @@
+Asrock H470M-HDV alaplap
+Chipset típus: H470
+D-Sub kimenet: 1
+DVI-D kimenet: 1
+Formátum: Micro ATX
+Hálózati csatlakozás: 1 x 10/100/1000 Mb/s
+HDMI kimenet: 1
+m.2 csatlakozó: 0
+Maximum memória (GB): 64
+Memória foglalat: DDR4
+Memória foglalatok száma: 2
+Memória sebesség (Mhz): 2133, 2400, 2666, 2933
+PCI-e verzió: 3.0
+PCI-E x1 csatlakozó: 1
+PCI-e x16 csatlakozó: 1
+Processzor foglalat: Intel 1200
+PS/2 csatlakozó: 1
+Raid: 0, 1, 10, 5
+SATA 3 csatlakozó: 4
+Támogatott CPU Generációk: 10. generációs Intel
+Táp csatlakozó (pin): 24+8
+USB 2.0 kimenet: 4
+USB 3.0 kimenet: 2

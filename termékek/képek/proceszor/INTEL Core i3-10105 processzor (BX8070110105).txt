@@ -1,0 +1,14 @@
+INTEL Core i3-10105 processzor (BX8070110105)
+Család: Comet Lake-S
+Fogyasztás (W): 65
+Gyártási technológia (nm): 14
+Hűtőborda: Igen
+Hűtőventilátor: Igen
+L2 Cache (MB): 1
+L3 Cache (MB): 6
+Magok száma: 4
+Órajel (Mhz): 3700
+Processzor foglalat: Intel 1200
+Szálak száma: 8
+Típus: Core i3-10105
+VGA típus: Intel UHD Graphics 630
