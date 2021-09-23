@@ -1,9 +1,7 @@
 body{
-    background-color: #46494c;
-    color: #c5c3c6;
+    background-color: white;
+    color: #edf2f4;
     text-align: center;
-    padding-left: 250px;
-    padding-right: 250px;
 }
 .logo{
 
@@ -11,13 +9,11 @@ body{
     height: 24px;
 }
 
-.szurke{
-    background-color: #4c5c68;
+.navbar{
+    background-color: #8d99ae;
 }
 
-nav{
-    height: 40px;
-}
+
 .card{
     margin-bottom: 10px;
     border-radius: 10px;
@@ -29,5 +25,4 @@ nav{
 .btn{
     background-color: #1985a1;
     border-color: #dcdcdd;
-
 }
