@@ -1,0 +1,8 @@
+GOODRAM 8GB 2400MHz DDR4 GR2400D464L17S8G memória
+Feszültség (V): 1,2
+Hűtőborda: Nem
+Időzítés (CL): 17
+Kapacitás (GB): 8
+Kiszerelés (modul): 1
+Memória típus: DDR4
+Órajel (Mhz): 2400

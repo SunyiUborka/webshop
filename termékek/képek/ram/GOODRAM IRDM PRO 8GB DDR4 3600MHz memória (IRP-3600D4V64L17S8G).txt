@@ -1,0 +1,9 @@
+GOODRAM IRDM PRO 8GB DDR4 3600MHz memória (IRP-3600D4V64L17S8G)
+Csomagolás: Doboz
+Feszültség (V): 1,35
+Hűtőborda: Igen
+Időzítés (CL): 17
+Kapacitás (GB): 8
+Kiszerelés (modul): 1
+Memória típus: DDR4
+Órajel (Mhz): 3600

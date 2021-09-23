@@ -1,0 +1,9 @@
+Kingston 8GB DDR4 3200MHz HyperX XMP Predator HX432C16PB38 memória
+Csomagolás Bliszter
+Feszültség (V) 1,35
+Hűtőborda HyperX Predator XMP
+Időzítés (CL) 16
+Kapacitás (GB) 8
+Kiszerelés (modul) 1
+Memória típus DDR4
+Órajel (Mhz) 3200

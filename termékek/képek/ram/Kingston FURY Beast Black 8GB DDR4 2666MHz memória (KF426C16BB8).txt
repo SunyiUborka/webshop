@@ -1,0 +1,8 @@
+Kingston FURY Beast Black 8GB DDR4 2666MHz memória (KF426C16BB8)
+Feszültség (V): 1,35
+Hűtőborda: Igen
+Időzítés (CL): 16
+Kapacitás (GB): 8
+Kiszerelés (modul): 1
+Memória típus: DDR4
+Órajel (Mhz): 2666
