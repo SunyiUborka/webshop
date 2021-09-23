@@ -9,50 +9,38 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+  <nav class="navbar navbar-expand-lg navbar-light ">
     <div class="container-fluid">
-        <div class="row">
-            <div class="col-12">
-                <img class="logo" src="computer_logo.png" alt="Logó">
-            </div>
-        </div>
-      </nav>
-
-            <!--<nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <a class="navbar-brand" href="#">Navbar</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                  <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                  <ul class="navbar-nav">
-                    <li class="nav-item active">
-                      <a class="nav-link" href="#">Kezdőlap</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                          Kategóriák
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                          <a class="dropdown-item" href="#">Számítógép ház</a>
-                          <a class="dropdown-item" href="#">Alaplap</a>
-                          <a class="dropdown-item" href="#">Processzor</a>
-                          <a class="dropdown-item" href="#">Memória</a>
-                          <a class="dropdown-item" href="#">Tápegység</a>
-                          <a class="dropdown-item" href="#">Processzorhűtő</a>
-                          <a class="dropdown-item" href="#">Merevlemez</a>
-                          <a class="dropdown-item" href="#">SSD</a>
-                          <a class="dropdown-item" href="#"></a>
-                        </div>
-                      </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="#">Kapcsolat</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="#">Bemutatkozás</a>
-                    </li>                
-                  </ul>
-                </div>
-              </nav>-->
-              
+      <a class="navbar-brand" href="#">
+        <img src="computer_logo.png" alt="" width="30" height="24" class="d-inline-block align-text-top">
+        Kezdőlap
+      </a>   
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Kategória
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <li><a class="dropdown-item" href="#">Processzor</a></li>
+              <li><a class="dropdown-item" href="#">Alaplap</a></li>
+              <li><a class="dropdown-item" href="#">Videókártya</a></li>
+              <li><a class="dropdown-item" href="#">Ram</a></li>
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Kapcsolat</a> <!--aria-current="page" active -->
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Bemutatkozás</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
 
     <div class="container">
         <div class="row">
