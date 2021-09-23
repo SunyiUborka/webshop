@@ -1,0 +1,15 @@
+Intel Core i5-11600K processzor (BX8070811600K)
+CPU Generáció: 11. generáció
+Család: Rocket Lake-S
+Fogyasztás (W): 125
+Gyártási technológia (nm): 14
+Hűtőborda: Nem
+Hűtőventilátor: Nem
+L2 Cache (MB): 3
+L3 Cache (MB): 12
+Magok száma: 6
+Órajel (Mhz): 3900
+Processzor foglalat: Intel 1200
+Szálak száma: 12
+Típus: Core i5-11600K
+VGA típus: Intel UHD Graphics 750

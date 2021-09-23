@@ -1,0 +1,18 @@
+
+Chipset típus: A520
+D-Sub kimenet: 1
+DisplayPort kimenet: 1
+Formátum: Micro ATX
+Hálózati csatlakozás: 1 x 10/100/1000 Mb/s
+HDMI kimenet: 1
+m.2 csatlakozó: 2
+Maximum memória (GB): 128
+Memória foglalat: DDR4
+Memória foglalatok száma: 4
+Memória sebesség (Mhz): 3200
+PCI-e x16 csatlakozó: 2
+Processzor foglalat: AMD AM4
+Raid: 0, 1, 10
+SATA 3 csatlakozó: 4
+USB 2.0 kimenet: 6
+USB 3.2 kimenet: 9
